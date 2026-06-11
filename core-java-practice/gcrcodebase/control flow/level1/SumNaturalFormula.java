@@ -7,7 +7,6 @@ public class SumNaturalFormula {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter number: ");
         int number = sc.nextInt();
-        Page 2
         if (number > 0) {
             int sum = number * (number + 1) / 2;
             System.out.println("The sum of " + number + " natural numbers is " + sum);

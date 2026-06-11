@@ -19,7 +19,6 @@ public class SumNaturalForCompare {
         } else {
             System.out.println("The number " + number + " is not a natural number");
         }
-        Page 6
         sc.close();
     }
 }
