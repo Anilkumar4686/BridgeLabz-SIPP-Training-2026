@@ -10,7 +10,7 @@ public class StringEquals {
 
 
         String s4="I Love Coding";
-        System.out.println(s4.reverse(index[-1:5]));
+        System.out.println(s4.substring(5, 10));
         
     }
 }
