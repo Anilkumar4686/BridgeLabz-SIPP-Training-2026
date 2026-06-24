@@ -1,4 +1,5 @@
 package oops_practice.scenerio_based.Encapsulation_Abstraction;
+
 abstract class Shape {
     abstract double area();
     abstract double perimeter();
